@@ -1,13 +1,33 @@
-## Version 1.0l for Kerbal Space Program 1.9.1
+# Changelog  
+  
+| modName    | Mkerb Oxidizer Tank (MOT)                                         |
+| ---------- | ----------------------------------------------------------------- |
+| license    | GPL-3.0                                                           |
+| author     | ManuxKerb and zer0Kerbal                                          |
+| forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/215723-*/) |
+| github     | (https://github.com/zer0Kerbal/MkerbOxidizerTank)                 |
+| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/MkerbOxidizerTank)    |
+| spacedock  | (https://spacedock.info/mod/1778)                                 |
+| ckan       | MkerbOxidizerTank                                                 |
 
-Released on 2018-04-01
+## Version 1.0.1.0-release `<Archival>`
+
+* Released
+  * 01 Apr 2018
+  * for Kerbal Space Program 1.9.1
+  * by ManuxKerb
 
 * Added licence text
 
-[ Download (297.21 KiB)](https://spacedock.info/mod/1778/Mkerb Inc. Oxidizer Tank/download/1.0l)
+---
 
-## Version 1.0 for Kerbal Space Program 1.4.1
+## Version 1.0.0.0-release `<Archival>`
 
-Released on 2018-03-31
+* Released
+  * 31 Mar 2018
+  * for Kerbal Space Program 1.4.1
+  * by ManuxKerb
 
-*No changelog provided*
+* *No changelog provided*
+
+---
