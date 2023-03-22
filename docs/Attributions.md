@@ -28,8 +28,7 @@ this file: CC BY-ND 4.0 by zer0Kerbal -->
 ### Credits
 
 <ul>
-  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/93697-*/"><img alt="dtobi" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/set_resources_17/84c1e40ea0e759e3f1505eb1788ddf3c_default_photo.png" width="50px" height="50px" > DaMichel</a> for creating the <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/208107-*/" alt="DaMichel Ltd (KM)"> the DaMichel series of parts addons!</a></li>
-  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/81209-*/"><img alt="Bezzier" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/set_resources_17/84c1e40ea0e759e3f1505eb1788ddf3c_default_photo.png" width="50px" height="50px" > Bezzier</a> for picking up where DaMichel left off (Color Curves)</li>
+  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/139441-*/"><img alt="ManuxKerb" src="https://forum.kerbalspaceprogram.com/uploads/set_resources_17/84c1e40ea0e759e3f1505eb1788ddf3c_default_photo.png" width="50px" height="50px" > ManuxKerb</a> for creating the <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/215723-*/" alt="Oxidizer Tank"> the Oxidizer Tank part addons!</a></li>
   <li><i>Thank you to everyone who gave feedback! It's very important for me and highly appreciated.</i></li>
 </ul>
 
@@ -57,7 +56,7 @@ this file: CC BY-ND 4.0 by zer0Kerbal -->
 
 <ul>
   <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/EN.png " alt="English" style="zoom:100%;" /> English</li>
-  <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/IT.png " alt="Italiano" style="zoom:100%;" /> Italian (Italiano) - courtesy of <a href="https://github.com/MattNot" alt="MattNot">Mattnot</a></li>
+  <!-- <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/IT.png " alt="Italiano" style="zoom:100%;" /> Italian (Italiano) - courtesy of <a href="https://github.com/MattNot" alt="MattNot">Mattnot</a></li> -->
   <li><small>Additions and corrections welcome!</small></li>
 </ul>
 
@@ -79,13 +78,5 @@ this file: CC BY-ND 4.0 by zer0Kerbal -->
   <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/133828-eightiesboi/"><img alt="eightiesboi" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2018_01/happy_velociraptor_dinosaur_greeting_cards-r918b99ab65894a198682f360e419773a_xvuak_8byvr_512.thumb.jpg.00c28897eef8a91ee74f6cb59a9bbb5f.jpg" width="50px" height="50px" > eightiesboi</a></li>
   <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/66411-zelda/"><img alt="Zelda" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2019_07/LoZ_RGB_960x960.thumb.jpg.32a815400e819b11482764bdea71373c.jpg" width="50px" height="50px" > Zelda</a></li>
 </ul>
-
-<!-- links -->
-[DML]: https://forum.kerbalspaceprogram.com/index.php?/topic/208107-*/ "DaMichel Ltd Forum Thread"
-
-[damichel]: https://forum.kerbalspaceprogram.com/index.php?/profile/93697-*/ "damichel"
-[bezzier]: https://forum.kerbalspaceprogram.com/index.php?/profile/81209-*/ "Bezzier"
-[cptkipard]: https://forum.kerbalspaceprogram.com/index.php?/profile/70516-*/ "Captain Kipard"
-[zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
 
 THIS file CC BY-ND 4.0 by zer0Kerbal
