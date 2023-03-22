@@ -8,7 +8,7 @@
 
 repository:
   # The name of the repository. Changing this will rename the repository
-  name: OxidizerTank
+  name: MkerbOxidizerTank
 
   # A short description of the repository that will show up on GitHub
   description: Just when you need that extra oxidizer on your spaceplane... For Kerbal Space Program.
