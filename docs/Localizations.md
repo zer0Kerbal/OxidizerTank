@@ -5,7 +5,7 @@ description: camera goes *click-click*
 tags: translations,localizations,languages,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 <!-- Localizations.md v1.0.0.0
-Oxidizer Tank (MOT)
+Mkerb Oxidizer Tank (MOT)
 created: 21 Mar 2023
 updated:
 
@@ -20,7 +20,7 @@ this file: CC BY-ND 4.0 by zer0Kerbal -->
   <i class="fa fa-language fa-beat-fade" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25; color: #BADA55"></i>
 </div>
 
-# Oxidizer Tank (MOT)
+# Mkerb Oxidizer Tank (MOT)
 
 [Home](./index.md)
 
