@@ -25,57 +25,58 @@ You should be all good! (check for latest version on CurseForge)
 
 ### If Downloaded from CurseForge/OverWolf manual download
 
-To install, place the `MkerbOxidizerTank` folder inside your Kerbal Space Program's GameData folder:
+To install, place the `Mkerb` folder inside your Kerbal Space Program's GameData folder:
 
 * **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**
-  * Delete `<KSP_ROOT>/GameData/MkerbOxidizerTank`
-* Extract the package's `MkerbOxidizerTank/` folder into your KSP's GameData folder as follows:
-  * `<PACKAGE>/MkerbOxidizerTank` --> `<KSP_ROOT>/GameData`
+  * Delete `<KSP_ROOT>/GameData/Mkerb/OxidizerTank`
+* Extract the package's `Mkerb/` folder into your KSP's GameData folder as follows:
+  * `<PACKAGE>/Mkerb` --> `<KSP_ROOT>/GameData`
     * Overwrite any preexisting folder/file(s).
-  * you should end up with `<KSP_ROOT>/GameData/MkerbOxidizerTank`
+  * you should end up with `<KSP_ROOT>/GameData/Mkerb/OxidizerTank`
 
 ### If Downloaded from SpaceDock / GitHub / other
 
 To install, place the `GameData` folder inside your Kerbal Space Program folder:
 
 * **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**
-  * Delete `<KSP_ROOT>/GameData/MkerbOxidizerTank`
+  * Delete `<KSP_ROOT>/GameData/Mkerb/OxidizerTank`
 * Extract the package's `GameData` folder into your KSP's root folder as follows:
   * `<PACKAGE>/GameData` --> `<KSP_ROOT>`
     * Overwrite any preexisting file.
-  * you should end up with `<KSP_ROOT>/GameData/MkerbOxidizerTank`
+  * you should end up with `<KSP_ROOT>/GameData/Mkerb/OxidizerTank`
 
 ## The following file layout must be present after installation
 
 ```markdown
 <KSP_ROOT>
   + [GameData]
-    + [MkerbOxidizerTank]
+    + [Mkerb]
+      + [MkerbInc]
       + [Agencies]
         ...
+      + [Flags]
+        ...
+      ...
+    + [OxidizerTank]
       + [Compatibility]
         ...
       + [Config]
         ...
       + [Contracts]
         ...
-      + [Flags]
-        ...
       + [Localization]
         ...
       + [Parts]
         ...
-      + [Plugins]
-        ...
       * #.#.#.#.htm
       * Attributions.htm
-      * ManualInstallation.htm
       * changelog.md
-      * License.txt
-      * readme.htm
+      * GPL-3.0.txt
+      * ManualInstallation.htm
       * MkerbOxidizerTank.version
+      * readme.htm
     ...
-    * [Module Manager /L][mml] or [Module Manager][mm]
+    * [ModularManagement (MM)][MM] or [Module Manager][m-m]
     * ModuleManager.ConfigCache
   * KSP.log
   ...
@@ -83,13 +84,13 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
 
 ### Dependencies
 
-* [SimpleConstruction! (SCON)][SC]
+* [Mkerb Inc (MKERB)][MKERB]
 * *either*
-  * [Module Manager][mm]
-  * [Module Manager /L][mml]
+  * [ModularManagement (MM)][MM]
+  * [Module Manager][m-m]
 
-[SC]: https://forum.kerbalspaceprogram.com/index.php?/topic/191424-*/ "SimpleConstruction! (SCON)"
-[mm]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"
-[mml]: https://github.com/net-lisias-ksp/ModuleManager "Module Manager /L"
+[MKERB]: https://forum.kerbalspaceprogram.com/index.php?/topic/191424-*/ "Mkerb Inc (MKERB)"
+[MM]: https://github.com/net-lisias-ksp/ModuleManager "ModularManagement (MM)"
+[m-m]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"
 
 <!-- this file CC BY-ND 4.0 by zer0Kerbal -->
