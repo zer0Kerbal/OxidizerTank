@@ -5,13 +5,13 @@ description: the flat-pack Kiea instructions, written in Kerbalese, unusally pre
 tags: installation,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 <!-- ManualInstallation.md v1.1.8.1
-Oxidizer Tank (MOT)
+Mkerb Oxidizer Tank (MOT)
 created: 01 Oct 2019
 updated: 29 Jul 2022 -->
 
 <!-- based upon work by Lisias -->
 
-# Oxidizer Tank (MOT)
+# Mkerb Oxidizer Tank (MOT)
 
 [Home](./index.md)
 
@@ -25,32 +25,32 @@ You should be all good! (check for latest version on CurseForge)
 
 ### If Downloaded from CurseForge/OverWolf manual download
 
-To install, place the `OxidizerTank` folder inside your Kerbal Space Program's GameData folder:
+To install, place the `MkerbOxidizerTank` folder inside your Kerbal Space Program's GameData folder:
 
 * **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**
-  * Delete `<KSP_ROOT>/GameData/OxidizerTank`
-* Extract the package's `OxidizerTank/` folder into your KSP's GameData folder as follows:
-  * `<PACKAGE>/OxidizerTank` --> `<KSP_ROOT>/GameData`
+  * Delete `<KSP_ROOT>/GameData/MkerbOxidizerTank`
+* Extract the package's `MkerbOxidizerTank/` folder into your KSP's GameData folder as follows:
+  * `<PACKAGE>/MkerbOxidizerTank` --> `<KSP_ROOT>/GameData`
     * Overwrite any preexisting folder/file(s).
-  * you should end up with `<KSP_ROOT>/GameData/OxidizerTank`
+  * you should end up with `<KSP_ROOT>/GameData/MkerbOxidizerTank`
 
 ### If Downloaded from SpaceDock / GitHub / other
 
 To install, place the `GameData` folder inside your Kerbal Space Program folder:
 
 * **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**
-  * Delete `<KSP_ROOT>/GameData/OxidizerTank`
+  * Delete `<KSP_ROOT>/GameData/MkerbOxidizerTank`
 * Extract the package's `GameData` folder into your KSP's root folder as follows:
   * `<PACKAGE>/GameData` --> `<KSP_ROOT>`
     * Overwrite any preexisting file.
-  * you should end up with `<KSP_ROOT>/GameData/OxidizerTank`
+  * you should end up with `<KSP_ROOT>/GameData/MkerbOxidizerTank`
 
 ## The following file layout must be present after installation
 
 ```markdown
 <KSP_ROOT>
   + [GameData]
-    + [OxidizerTank]
+    + [MkerbOxidizerTank]
       + [Agencies]
         ...
       + [Compatibility]
@@ -73,7 +73,7 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
       * changelog.md
       * License.txt
       * readme.htm
-      * OxidizerTank.version
+      * MkerbOxidizerTank.version
     ...
     * [Module Manager /L][mml] or [Module Manager][mm]
     * ModuleManager.ConfigCache
