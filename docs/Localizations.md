@@ -6,7 +6,7 @@ tags: translations,localizations,languages,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 <!-- Localizations.md v1.0.0.0
 Oxidizer Tank (MOT)
-created:
+created: 21 Mar 2023
 updated:
 
 TEMPLATE: Localizations.md v1.1.8.0
@@ -27,17 +27,17 @@ this file: CC BY-ND 4.0 by zer0Kerbal -->
 has been translated into the following languages:
 
 * ![English][EN] English <us-en.cfg>
-
-__These localizations for KSP and its DLC's are available through Steam:__
-
 * ![Deutsch][DE] German (Deutsch) <de.cfg>  
 * ![Español][ES] Spanish (Español) <es-es.cfg>  
-* ![Français][FR] French (Français) <fr-fr.cfg>  
-* ![Italiano][IT] Italian (Italiano) <it-it.cfg>  
-* ![日本語][JA] Japanese(日本語) <ja.cfg>  
 * ![Português Brasil][BR] Brazilian Portuguese (Português Brasil) <pt-br.cfg>  
 * ![Русский][RU] Russian (Русский) <ru.cfg>  
 * ![简体中文][CN] Simplified Chinese (简体中文) <zh-cn.cfg>  
+
+__These localizations for KSP and its DLC's are available through Steam:__
+
+* ![Français][FR] French (Français) <fr-fr.cfg>  
+* ![Italiano][IT] Italian (Italiano) <it-it.cfg>  
+* ![日本語][JA] Japanese(日本語) <ja.cfg>  
 
 ## Additionally Included
 
