@@ -54,9 +54,9 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 >* ![English][EN] English
 >* ![Deutsch][DE] German (Deutsch)
 >* ![Español][ES] Spanish (Español)
->* ![Português Brasil][BR] Português Brasil
+>* ![Português Brasil][BR] Brazilian Portuguese (Português Brasil)
 >* ![Русский][RU] Russian (Русский)
->* ![中文][CN] Simplified Chinese (中文)
+>* ![简体中文][CN] Simplified Chinese (简体中文)
 >* ***your translation here***
 
 ### Installation Directions
