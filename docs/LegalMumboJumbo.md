@@ -7,7 +7,7 @@ tags: legal,mumbo,jumbo,page,kerbal,ksp,zer0Kerbal,zedK
 <!--
 LegalMumboJumbo.md v1.0.0.0
 Oxidizer Tank (MOT)
-created: 
+created: 21 Mar 2023
 updated: 
 
 TEMPLATE: LegalMumboJumbo.md v1.0.5.2
