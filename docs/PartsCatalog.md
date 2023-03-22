@@ -6,7 +6,7 @@ tags: parts,invoice,catalog,parts-list,packing,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 <!-- PartsCatalog.md v1.0.0.0
 Oxidizer Tank (MOT)
-created: 
+created: 21 Mar 2023
 updated: 
 
 TEMPLATE: PartsCatalog.md v1.1.4.2
