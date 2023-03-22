@@ -5,7 +5,7 @@ title: License - GPL-3.0
 
 <!--
 GPL-3.0.md v1.0.2.0
-Oxidizer Tank (MOT)
+Mkerb Oxidizer Tank (MOT)
 created: 20 Feb 2022
 updated: 04 Aug 2022
 -->
