@@ -19,6 +19,10 @@
 
 * Added licence text
 
+* Issues
+  * closes #7 - Archival Releases
+  * closes #12 - 1.0.1.0
+
 ---
 
 ## Version 1.0.0.0-release `<Archival>`
@@ -29,5 +33,9 @@
   * by ManuxKerb
 
 * *No changelog provided*
+
+* Issues
+  * updates #7 - Archival Releases
+  * closes #11 - 1.0.0.0
 
 ---
