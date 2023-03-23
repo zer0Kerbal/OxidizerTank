@@ -1,0 +1,20 @@
+# Mkerb Mkerb Oxidizer Tank (MOT)   
+
+## ManuxKerb
+
+this archive has been modified with any or all of the following:
+* structure
+* part configs modified
+  * to reflect folder structure changes
+  * to correct some errors in the configs
+* contents removed
+  * MACOS files
+  * plugins (TweakScale and ModuleManager)
+* contents added
+  * Attributions.htm
+  * changelog.md
+  * GPL-3.0.txt
+  * ManualInstallation.htm
+  * OxidizerTank.version
+  * this readme.txt
+* by zer0Kerbal
