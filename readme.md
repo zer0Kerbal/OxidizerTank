@@ -52,11 +52,11 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 ### Localization
 
 >* ![English][EN] English
->* ![Deutsch][DE] German (Deutsch)
->* ![Español][ES] Spanish (Español)
->* ![Português Brasil][BR] Brazilian Portuguese (Português Brasil)
->* ![Русский][RU] Russian (Русский)
->* ![简体中文][CN] Simplified Chinese (简体中文)
+>* ~~![Deutsch][DE] German (Deutsch)~~
+>* ~~![Español][ES] Spanish (Español)~~
+>* ~~![Português Brasil][BR] Brazilian Portuguese (Português Brasil)~~
+>* ~~![Русский][RU] Russian (Русский)~~
+>* ~~![简体中文][CN] Simplified Chinese (简体中文)~~
 >* ***your translation here***
 
 ### Installation Directions
@@ -67,7 +67,12 @@ Most recent releases only available via CurseForge/OverWolf Website/App
 
 ### Dependencies
 
+* [Mkerb Inc (MKERB)][MKERB]
 * [Kerbal Space Program][KSP:url] [![Kerbal Space Program][SHD:ksp]][KSP:url]
+
+### Recommends
+
+* [Mkerb Science Instruments][MSI]
 
 ### Supports
 
@@ -206,6 +211,9 @@ Comment, click, like, share, up-vote, subscribe
 [SOL]: https://forum.kerbalspaceprogram.com/index.php?/topic/192489-*/ "Solar Science (SOL)"
 [KOAT]: https://forum.kerbalspaceprogram.com/index.php?/topic/212070-*/ "Kerbals of All Trades (KOAT)"
 [HYPE]: https://forum.kerbalspaceprogram.com/index.php?/topic/212069-*/ "Simple Hyperdrive! (HYPE)"
+
+[MKERB]: https://forum.kerbalspaceprogram.com/index.php?/topic/215790-*/ "Mkerb Inc (MKERB)"
+[MSI]: https://forum.kerbalspaceprogram.com/index.php?/topic/215791-*/ "Mkerb Science Instruments"
 
 [MM]: https://github.com/net-lisias-ksp/ModularManagement "ModularManagement (MM)"
 [m-m]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"
