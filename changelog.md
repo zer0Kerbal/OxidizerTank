@@ -19,6 +19,16 @@
 
 * Added licence text
 
+* Issues
+  * closes #7 - Archival Releases
+  * closes #12 - 1.0.1.0
+  * updates #14 - English <en-us.cfg>
+  * updates #15 - Brazalian (Português Brasil) <pt-br.cfg>
+  * updates #16 - German (Deutsch) <de-de.cfg>
+  * updates #17 - Spanish (Español) <es-es.cfg>
+  * updates #21 - Russian (Русский) <ru.cfg>
+  * updates #22 - Simplified Chinese (简体中文) <zh-cn.cfg>
+
 ---
 
 ## Version 1.0.0.0-release `<Archival>`
@@ -29,5 +39,15 @@
   * by ManuxKerb
 
 * *No changelog provided*
+
+* Issues
+  * updates #7 - Archival Releases
+  * closes #11 - 1.0.0.0  * updates #13 - Localization - Master
+  * updates #14 - English <en-us.cfg>
+  * updates #15 - Brazalian (Português Brasil) <pt-br.cfg>
+  * updates #16 - German (Deutsch) <de-de.cfg>
+  * updates #17 - Spanish (Español) <es-es.cfg>
+  * updates #21 - Russian (Русский) <ru.cfg>
+  * updates #22 - Simplified Chinese (简体中文) <zh-cn.cfg>
 
 ---
