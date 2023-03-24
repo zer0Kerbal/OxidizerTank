@@ -1,6 +1,6 @@
 # Changelog  
   
-| modName    | Mkerb Oxidizer Tank (MOT)                                         |
+| modName    | Oxidizer Tank (MOT)                                         |
 | ---------- | ----------------------------------------------------------------- |
 | license    | GPL-3.0                                                           |
 | author     | ManuxKerb and zer0Kerbal                                          |
@@ -19,6 +19,7 @@
 
 ### Summary 1.0.99.0
 
+* Add Additional sizes: 0.625m, 1.875m, 2.5m and 3.75m
 * loads of behind the scenes changes
 * Can search `mot` in editors
 * ghostparts.cfg temporarily added for renamed parts
@@ -66,6 +67,8 @@
 
 * Add
   * <ghostParts.cfg> v1.0.0.0
+  * Additional sizes
+    * 0.625m, 1.875m, 2.5m and 3.75m
 * Rename
   * parts to match naming scheme
   * files to match part names
@@ -80,6 +83,10 @@
     * file headers
     * general linting
 * closes #33 - Create Agency
+* closes #36 - [Add] size0
+* closes #37 - [Add] size1p5
+* closes #38 - [Add] size2
+* closes #39 - [Add] size3
 
 ### Assets 1.0.99.0
 
@@ -124,7 +131,7 @@
 ### Status 1.0.99.0
 
 * Issues
-  * closes #1 - Mkerb Oxidizer Tank (MOT) 1.0.99.0-adoption `<Thank you ManuxKerb>` edition
+  * closes #1 - Oxidizer Tank (MOT) 1.0.99.0-adoption `<Thank you ManuxKerb>` edition
   * closes #2 - 1.1.99.0 Create Legal Mumbo Jumbo
   * closes #3 - 1.1.99.0 Create Documentation
   * closes #4 - 1.1.99.0 Create Social Media Presence
