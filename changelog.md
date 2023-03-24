@@ -1,6 +1,6 @@
 # Changelog  
   
-| modName    | Mkerb Oxidizer Tank (MOT)                                         |
+| modName    | Oxidizer Tank (MOT)                                         |
 | ---------- | ----------------------------------------------------------------- |
 | license    | GPL-3.0                                                           |
 | author     | ManuxKerb and zer0Kerbal                                          |
@@ -131,7 +131,7 @@
 ### Status 1.0.99.0
 
 * Issues
-  * closes #1 - Mkerb Oxidizer Tank (MOT) 1.0.99.0-adoption `<Thank you ManuxKerb>` edition
+  * closes #1 - Oxidizer Tank (MOT) 1.0.99.0-adoption `<Thank you ManuxKerb>` edition
   * closes #2 - 1.1.99.0 Create Legal Mumbo Jumbo
   * closes #3 - 1.1.99.0 Create Documentation
   * closes #4 - 1.1.99.0 Create Social Media Presence
