@@ -5,7 +5,7 @@ description: Bill, what are going to do tonight? Why Jeb, the same thing we do e
 tags: parts,invoice,catalog,parts-list,packing,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 <!-- PartsCatalog.md v1.0.0.0
-Mkerb Oxidizer Tank (MOT)
+Oxidizer Tank (MOT)
 created: 21 Mar 2023
 updated: 
 
@@ -16,25 +16,17 @@ updated: 17 Feb 2023 -->
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <i class="fa-solid fa-explosion fa-beat-fade fa-3x" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25;color: #FF7E03" ></i>
 
-# Mkerb Oxidizer Tank (MOT)
+# Oxidizer Tank (MOT)
 
 [Home](./index.md)
 
 ## Parts Catalog
 
-This add-on adds nine (9) resource parts
+This add-on adds five (5) oxidizer tanks
 
----
-<!-- no toc -->
-* Mallet *(Only with Kerbal Inventory System installed)*
-* SurveyStake
+* 0.625m, 1.25m, 1.875m, 2.5m and 3.75m
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/MkerbOxidizerTank/master/GameData/MkerbOxidizerTank/Parts/%40thumbs/ElMallet_icon.png" alt="Mallet" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/MkerbOxidizerTank/master/GameData/MkerbOxidizerTank/Parts/%40thumbs/ELSurveyStake_icon.png" alt="SurveyStake" width="25%" height="25%" />
-
-* MicroPad
-* OrbitalDock
-
----
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/OxidizerTank/master/docs/thumbs/mot-tank-125_icon.png" alt="Mkerb Oxidizer Tank" width="25%" height="25%" />
 
 [top](#parts-catalog)
 

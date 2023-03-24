@@ -6,7 +6,7 @@ tags: legal,mumbo,jumbo,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 <!--
 LegalMumboJumbo.md v1.0.0.0
-Mkerb Oxidizer Tank (MOT)
+Oxidizer Tank (MOT)
 created: 21 Mar 2023
 updated: 
 
@@ -17,7 +17,7 @@ updated: 15 May 2022 -->
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <i class="fa-solid fa-file-contract fa-beat-fade fa-3x" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25;color: #6495ED" ></i>
 
-# Mkerb Oxidizer Tank (MOT)
+# Oxidizer Tank (MOT)
 
 [Home](./index.md)
 
