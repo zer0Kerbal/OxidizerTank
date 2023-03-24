@@ -53,11 +53,11 @@
     * adds localized tags to parts
     * closes #10 - Create <OxidizerTank.cfg>
 * closes #14 - English <en-us.cfg>
-* closes #15 - Brazalian (Português Brasil) <pt-br.cfg>
-* closes #16 - German (Deutsch) <de-de.cfg>
-* closes #17 - Spanish (Español) <es-es.cfg>
-* closes #21 - Russian (Русский) <ru.cfg>
-* closes #22 - Simplified Chinese (简体中文) <zh-cn.cfg>
+* updates #15 - Brazalian (Português Brasil) <pt-br.cfg>
+* updates #16 - German (Deutsch) <de-de.cfg>
+* updates #17 - Spanish (Español) <es-es.cfg>
+* updates #21 - Russian (Русский) <ru.cfg>
+* updates #22 - Simplified Chinese (简体中文) <zh-cn.cfg>
 * closes #31 - Part Localization
 * closes #32 - Part Tags
 * closes #8 - Create Localization directory and contents
