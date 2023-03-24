@@ -5,13 +5,13 @@ description: the flat-pack Kiea instructions, written in Kerbalese, unusally pre
 tags: installation,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 <!-- ManualInstallation.md v1.1.8.1
-Mkerb Oxidizer Tank (MOT)
+Oxidizer Tank (MOT)
 created: 01 Oct 2019
 updated: 29 Jul 2022 -->
 
 <!-- based upon work by Lisias -->
 
-# Mkerb Oxidizer Tank (MOT)
+# Oxidizer Tank (MOT)
 
 [Home](./index.md)
 
@@ -89,7 +89,7 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
   * [ModularManagement (MM)][MM]
   * [Module Manager][m-m]
 
-[MKERB]: https://forum.kerbalspaceprogram.com/index.php?/topic/191424-*/ "Mkerb Inc (MKERB)"
+[MKERB]: https://forum.kerbalspaceprogram.com/index.php?/topic/215790-*/ "Mkerb Inc (MKERB)"
 [MM]: https://github.com/net-lisias-ksp/ModuleManager "ModularManagement (MM)"
 [m-m]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"
 
