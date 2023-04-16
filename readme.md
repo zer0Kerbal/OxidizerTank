@@ -24,7 +24,7 @@ Just when you need that extra oxidizer on your spaceplane...
 
 adopted with *express* permission and brought to you by *KerbSimpleCo*
 
-<img src="https://raw.githubusercontent.com/zer0Kerbal/OxidizerTank/master/img/HeroLogo_1920x1920.png" alt="MkerbOxidizerTank Hero" width="50%" height="50%">
+<img src="https://raw.githubusercontent.com/zer0Kerbal/OxidizerTank/master/img/HeroLogo_1920x1920.png" alt="OxidizerTank Hero" width="50%" height="50%">
 
 ### Preamble by [`ManuxKerb`][auth-link]
 
@@ -151,10 +151,10 @@ Comment, click, like, share, up-vote, subscribe
 [attrb]: https://zer0kerbal.github.io/OxidizerTank/Attributions "Attribution"
 [chlog]: https://raw.githubusercontent.com/zer0Kerbal/OxidizerTank/master/changelog.md  "Changelog"
 [discu]: https://github.com/zer0Kerbal/OxidizerTank/discussions "Discussions"
-[forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/215723-*/ "MkerbOxidizerTank Forum Thread"
+[forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/215723-*/ "Oxidizer Tank (MOT))"
 [issue]: https://github.com/zer0Kerbal/OxidizerTank/issues "Issues"
 [notic]: https://zer0kerbal.github.io/OxidizerTank/Notices "Notices"
-[pages]: https://zer0kerbal.github.io/MkerbOxidizerTank "GitHub Pages"
+[pages]: https://zer0kerbal.github.io/OxidizerTank "GitHub Pages"
 [parts]: https://zer0kerbal.github.io/OxidizerTank/PartsCatalog "Parts Catalog"
 
 <!-- shields -->
@@ -176,7 +176,7 @@ Comment, click, like, share, up-vote, subscribe
 [LIC:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/OxidizerTank/master/json/license.json
 
 <!-- release links -->
-[CURSFG:url]: https://www.curseforge.com/kerbal/ksp-mods/MkerbOxidizerTank "Curseforge"
+[CURSFG:url]: https://www.curseforge.com/kerbal/ksp-mods/OxidizerTank "Curseforge"
 [CURSFG:shd]: https://img.shields.io/badge/CurseForge-Link-CCFF00.svg?labelColor=6441A4&style=plastic&logo=curseforge "Curseforge"
 
 [GITHUB:url]: https://github.com/zer0Kerbal/OxidizerTank/ "GitHub"

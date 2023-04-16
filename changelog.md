@@ -1,6 +1,6 @@
 # Changelog  
   
-| modName    | Oxidizer Tank (MOT)                                         |
+| modName    | Oxidizer Tank (MOT)                                               |
 | ---------- | ----------------------------------------------------------------- |
 | license    | GPL-3.0                                                           |
 | author     | ManuxKerb and zer0Kerbal                                          |
