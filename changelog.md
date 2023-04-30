@@ -26,7 +26,6 @@
 
 * Add Italian (Italiano) localization courtesy of [ychandak17](https://github.com/ychandak17)
 
-
 ### Changes 1.0.99.1
 
 * Add
