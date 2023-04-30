@@ -10,9 +10,9 @@ Oxidizer Tank (MOT)
 created: 13 May 2022
 updated: 05 Nov 2022
 CC BY-ND 4.0 by zer0Kerbal -->  
-# Changelog  
+ p)# Changelog  
   
-| modName    | Oxidizer Tank (MOT)                                         |
+| modName    | Oxidizer Tank (MOT)                                               |
 | ---------- | ----------------------------------------------------------------- |
 | license    | GPL-3.0                                                           |
 | author     | ManuxKerb and zer0Kerbal                                          |
@@ -21,6 +21,54 @@ CC BY-ND 4.0 by zer0Kerbal -->
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/MkerbOxidizerTank)    |
 | spacedock  | (https://spacedock.info/mod/1778)                                 |
 | ckan       | MkerbOxidizerTank                                                 |
+
+## Version 1.0.99.1-prerelease - `<D4nisBag ychandak17>` edition
+
+* Released
+  * 30 Apr 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+* 📌 Pinned
+  * Can search `mot` in editors
+  * Dependencies:
+    * [Mkerb Inc (MKERB)](https://www.curseforge.com/kerbal/ksp-mods/MkerbInc)
+
+### Change Summary 1.0.99.1
+
+* Add localizations
+  * Italian (Italiano)
+    * Grazie mille! [ychandak17](https://github.com/ychandak17)
+  * Russian (Русский)
+  * Большое спасибо (Bol'shoye spasibo)! courtesy of [D4nisBag](https://github.com/D4nisBag)
+
+### Changes 1.0.99.1
+
+* Add
+  * Italian (Italiano)
+    * <it-it.cfg> v1.0.0.0
+    * courtesy of [ychandak17](https://github.com/ychandak17)
+  * Russian (Русский)
+    * <ru.cfg> v1.0.0.0
+    * courtesy of [D4nisBag](https://github.com/D4nisBag)
+* Update
+  * <it-it.cfg> v1.0.1.0
+  * <ru.cfg> v1.0.1.0
+  * docs/
+    * Attributions v1.0.2.0
+    * Localizations v1.0.2.0
+    * readme v1.0.2.0
+* closes #19 - Italian (Italiano) <it-it.cfg>
+* closes #21 - Russian (Русский) <ru.cfg>
+* updates #13 - Localization - Master
+
+* Issues
+  * closes #42 - Oxidizer Tank (MOT) 1.0.99.1-prerelease `<D4nisBag ychandak17>` edition
+  * closes #43 - 1.0.99.1 Additional Tasks
+  * closes #48 - duplicate
+  * closes #45 - duplicate
+
+---
 
 ## Version 1.0.99.0-adoption - `<Thank you ManuxKerb>` edition
 
@@ -36,7 +84,7 @@ CC BY-ND 4.0 by zer0Kerbal -->
 * Can search `mot` in editors
 * ghostparts.cfg temporarily added for renamed parts
 * Dependencies:
-  * Mkerb Inc
+  * [Mkerb Inc (MKERB)](https://www.curseforge.com/kerbal/ksp-mods/MkerbInc)
 
 ### Adoption by [zer0Kerbal](https://github.com/zer0Kerbal)
 

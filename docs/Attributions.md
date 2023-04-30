@@ -5,7 +5,7 @@ description: The Opening Credits, and the closing credits, plus the first of two
 tags: attributions,thank-you,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 <!--
-Attributions.md v1.0.1.0
+Attributions.md v1.0.2.0
 Oxidizer Tank (MOT)
 created: 21 Mar 2023
 updated: 30 Apr 2023
@@ -56,7 +56,8 @@ THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 
 <ul>
   <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/EN.png " alt="English" style="zoom:100%;" /> English</li>
-  <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/IT.png " alt="Italiano" style="zoom:100%;" /> Italian (Italiano) - courtesy of <a href="https://github.com/ychandak17" alt="ychandak17">Maychandak17ttnot</a></li>
+  <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/IT.png " alt="Italiano" style="zoom:100%;" /> Italian (Italiano) - courtesy of <a href="https://github.com/ychandak17" alt="ychandak17">ychandak17</a></li>
+  <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/RU.png " alt="Russian (Русский)" style="zoom:100%;" /> Russian (Русский) - courtesy of <a href="https://github.com/D4nisBag" alt="D4nisBag">D4nisBag</a></li>
   <li><small>Additions and corrections welcome!</small></li>
 </ul>
 
