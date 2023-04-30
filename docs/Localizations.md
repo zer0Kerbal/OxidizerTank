@@ -13,7 +13,7 @@ TEMPLATE: Localizations.md v1.1.8.0
 created: 01 Feb 2022
 updated: 17 Mar 2023
 
-this file: CC BY-ND 4.0 by zer0Kerbal -->
+THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <div class="fa-3x">
@@ -72,4 +72,4 @@ __These localizations for KSP and its DLC's are available through Steam:__
 [TR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/TR.png "Türk"
 [TW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/TW.png "国语"
 
-this file CC BY-ND 4.0 by zer0Kerbal
+THIS FILE: CC BY-ND 4.0 by zer0Kerbal
