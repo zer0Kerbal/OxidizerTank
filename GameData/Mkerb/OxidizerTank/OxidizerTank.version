@@ -1,0 +1,36 @@
+{
+	"NAME"		     : "Oxidizer Tank (MOT) by ManuxKerb",
+	"URL"			 : "https://raw.githubusercontent.com/zer0Kerbal/OxidizerTank/master/OxidizerTank.version",
+	"DOWNLOAD"	     : "https://github.com/zer0Kerbal/OxidizerTank/releases/latest",
+	"CHANGE_LOG_URL" : "https://raw.githubusercontent.com/zer0Kerbal/OxidizerTank/master/changelog.md",
+	"GITHUB" :
+	{
+		"USERNAME"	        : "zer0Kerbal",
+		"REPOSITORY"		: "OxidizerTank",
+		"ALLOW_PRE_RELEASE" : false
+	},
+	"VERSION" :
+	{
+		"MAJOR" : 1,
+		"MINOR" : 0,
+		"PATCH" : 99,
+		"BUILD" : 1
+	},
+	"KSP_VERSION" :
+	{
+		"MAJOR" : 1,
+		"MINOR" : 12,
+		"PATCH" : 5
+	},
+	"KSP_VERSION_MIN" :
+	{
+		"MAJOR" : 1,
+		"MINOR" : 3,
+		"PATCH" : 1
+	},
+	"INSTALL_LOC" :
+	{
+		"NAME" :	  "OxidizerTank",
+		"DIRECTORY" : "Mkerb/OxidizerTank"
+	}
+}
