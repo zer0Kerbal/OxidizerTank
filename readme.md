@@ -149,7 +149,7 @@ Comment, click, like, share, up-vote, subscribe
 [attrb]: https://zer0kerbal.github.io/OxidizerTank/Attributions "Attribution"
 [chlog]: https://raw.githubusercontent.com/zer0Kerbal/OxidizerTank/master/changelog.md  "Changelog"
 [discu]: https://github.com/zer0Kerbal/OxidizerTank/discussions "Discussions"
-[forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/215723-*/ "Oxidizer Tank (MOT))"
+[forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/215723-*/ "Oxidizer Tank (MOT)"
 [issue]: https://github.com/zer0Kerbal/OxidizerTank/issues "Issues"
 [notic]: https://zer0kerbal.github.io/OxidizerTank/Notices "Notices"
 [pages]: https://zer0kerbal.github.io/OxidizerTank "GitHub Pages"
@@ -210,8 +210,8 @@ Comment, click, like, share, up-vote, subscribe
 [SLOG]: https://www.curseforge.com/kerbal/ksp-mods/SimpleLogistics "SimpleLogistics! (SLOG)"
 [SOL]: https://www.curseforge.com/kerbal/ksp-mods/SolarScience "Solar Science (SOL)"
 
-[MKERB]: https://forum.kerbalspaceprogram.com/index.php?/topic/215790-*/ "Mkerb Inc (MKERB)"
-[MSI]: https://forum.kerbalspaceprogram.com/index.php?/topic/215791-*/ "Mkerb Science Instruments"
+[MKERB]: https://www.curseforge.com/kerbal/ksp-mods/MkerbInc "Mkerb Inc (MKERB)"
+[MSI]: https://www.curseforge.com/kerbal/ksp-mods/ScienceInstruments "Science Instruments"
 
 [MM]: https://www.curseforge.com/kerbal/ksp-mods/ModularManagement "ModularManagement (MM)"
 [m-m]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"
