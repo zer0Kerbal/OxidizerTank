@@ -4,14 +4,14 @@ title: Localizations
 description: camera goes *click-click*
 tags: translations,localizations,languages,page,kerbal,ksp,zer0Kerbal,zedK
 ---
-<!-- Localizations.md v1.0.0.0
+<!-- Localizations.md v1.0.1.0
 Oxidizer Tank (MOT)
 created: 21 Mar 2023
-updated:
+updated: 30 Apr 2023
 
-TEMPLATE: Localizations.md v1.1.8.0
+TEMPLATE: Localizations.md v1.1.9.0
 created: 01 Feb 2022
-updated: 17 Mar 2023
+updated: 24 Mar 2023
 
 THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 
@@ -20,13 +20,17 @@ THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
   <i class="fa fa-language fa-beat-fade" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25; color: #BADA55"></i>
 </div>
 
-# Oxidizer Tank (MOT)
+## [Oxidizer Tank (MOT)][mod]
 
 [Home](./index.md)
 
 has been translated into the following languages:
 
 * ![English][EN] English <us-en.cfg>
+* ![Italiano][IT] Italian (Italiano) <it-it.cfg>  
+
+file present, just not translated into (yet)
+
 * ![Deutsch][DE] German (Deutsch) <de.cfg>  
 * ![Español][ES] Spanish (Español) <es-es.cfg>  
 * ![Português Brasil][BR] Brazilian Portuguese (Português Brasil) <pt-br.cfg>  
@@ -36,7 +40,6 @@ has been translated into the following languages:
 __These localizations for KSP and its DLC's are available through Steam:__
 
 * ![Français][FR] French (Français) <fr-fr.cfg>  
-* ![Italiano][IT] Italian (Italiano) <it-it.cfg>  
 * ![日本語][JA] Japanese(日本語) <ja.cfg>  
 
 ## Additionally Included
@@ -73,3 +76,6 @@ __These localizations for KSP and its DLC's are available through Steam:__
 [TW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/TW.png "国语"
 
 THIS FILE: CC BY-ND 4.0 by zer0Kerbal
+  used with express permission from zer0Kerbal
+
+[mod]: https://www.curseforge.com/kerbal/ksp-mods/OxidizerTank "Oxidizer Tank (MOT)"
