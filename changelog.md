@@ -13,10 +13,37 @@
 ## Version 1.0.99.1-prerelease - `<Grazie mille ychandak17>` edition
 
 * Released
-  * 22 Mar 2023
+  * 30 Apr 2023
   * for Kerbal Space Program 1.12.5
   * by [zer0Kerbal](https://github.com/zer0Kerbal)
-  * by [ychandak17](https://github.com/ychandak17)
+
+* 📌 Pinned
+  * Can search `mot` in editors
+  * Dependencies:
+    * [Mkerb Inc (MKERB)](https://www.curseforge.com/kerbal/ksp-mods/MkerbInc)
+
+### Change Summary 1.0.99.1
+
+* Add Italian (Italiano) localization courtesy of [ychandak17](https://github.com/ychandak17)
+
+
+### Changes 1.0.99.1
+
+* Add
+  * Italian (Italiano)
+    * <it-it.cfg> v1.0.0.0
+    * courtesy of [ychandak17](https://github.com/ychandak17)
+* Update
+  * Italian (Italiano)
+    * <it-it.cfg> v1.0.1.0
+* closes #19 - Italian (Italiano) <it-it.cfg>
+* updates #13 - Localization - Master
+
+* Issues
+  * closes #42 - Oxidizer Tank (MOT) 1.0.99.1-prerelease `<Grazie mille ychandak17>` edition
+  * closes #43 - 1.0.99.1 Additional Tasks
+  * closes #48 - duplicate
+  * closes #45 - duplicate
 
 ---
 
@@ -34,7 +61,7 @@
 * Can search `mot` in editors
 * ghostparts.cfg temporarily added for renamed parts
 * Dependencies:
-  * Mkerb Inc
+  * [Mkerb Inc (MKERB)](https://www.curseforge.com/kerbal/ksp-mods/MkerbInc)
 
 ### Adoption by [zer0Kerbal](https://github.com/zer0Kerbal)
 
