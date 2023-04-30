@@ -14,7 +14,7 @@ TEMPLATE: Attributions.md v1.0.9.0
 created: 01 Feb 2022
 updated: 15 Mar 2023
 
-this file: CC BY-ND 4.0 by zer0Kerbal -->
+THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <i class="fa fa-gear fa-spin fa-3x" style="color: firebrick"></i>
@@ -79,4 +79,4 @@ this file: CC BY-ND 4.0 by zer0Kerbal -->
   <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/66411-zelda/"><img alt="Zelda" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2019_07/LoZ_RGB_960x960.thumb.jpg.32a815400e819b11482764bdea71373c.jpg" width="50px" height="50px" > Zelda</a></li>
 </ul>
 
-THIS file CC BY-ND 4.0 by zer0Kerbal
+THIS FILE: CC BY-ND 4.0 by zer0Kerbal
