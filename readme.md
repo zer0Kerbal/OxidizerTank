@@ -1,4 +1,4 @@
-<!-- readme.md v1.0.1.0
+<!-- readme.md v1.0.2.0
 Oxidizer Tank (MOT)
 created: 21 Mar 2023
 updated: 30 Apr 2023
@@ -50,10 +50,10 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 >* ![English][EN] English
 >* ![Italiano][IT] Italian (Italiano) by [ychandak17](https://github.com/ychandak17)
+>* ![Русский][RU] Russian (Русский) by [D4nisBag](https://github.com/D4nisBag)
 >* ~~![Deutsch][DE] German (Deutsch)~~
 >* ~~![Español][ES] Spanish (Español)~~
 >* ~~![Português Brasil][BR] Brazilian Portuguese (Português Brasil)~~
->* ~~![Русский][RU] Russian (Русский)~~
 >* ~~![简体中文][CN] Simplified Chinese (简体中文)~~
 >* ***your translation here***
 
