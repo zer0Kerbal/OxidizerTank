@@ -10,6 +10,16 @@
 | spacedock  | (https://spacedock.info/mod/1778)                                 |
 | ckan       | MkerbOxidizerTank                                                 |
 
+## Version 1.0.99.1-prerelease - `<Grazie mille ychandak17>` edition
+
+* Released
+  * 22 Mar 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+  * by [ychandak17](https://github.com/ychandak17)
+
+---
+
 ## Version 1.0.99.0-adoption - `<Thank you ManuxKerb>` edition
 
 * Released
