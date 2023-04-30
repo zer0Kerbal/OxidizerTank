@@ -1,4 +1,4 @@
-# Changelog  
+ p)# Changelog  
   
 | modName    | Oxidizer Tank (MOT)                                               |
 | ---------- | ----------------------------------------------------------------- |
@@ -10,7 +10,7 @@
 | spacedock  | (https://spacedock.info/mod/1778)                                 |
 | ckan       | MkerbOxidizerTank                                                 |
 
-## Version 1.0.99.1-prerelease - `<Grazie mille ychandak17>` edition
+## Version 1.0.99.1-prerelease - `<D4nisBag ychandak17>` edition
 
 * Released
   * 30 Apr 2023
@@ -24,7 +24,11 @@
 
 ### Change Summary 1.0.99.1
 
-* Add Italian (Italiano) localization courtesy of [ychandak17](https://github.com/ychandak17)
+* Add localizations
+  * Italian (Italiano)
+    * Grazie mille! [ychandak17](https://github.com/ychandak17)
+  * Russian (Русский)
+  * Большое спасибо (Bol'shoye spasibo)! courtesy of [D4nisBag](https://github.com/D4nisBag)
 
 ### Changes 1.0.99.1
 
@@ -32,14 +36,22 @@
   * Italian (Italiano)
     * <it-it.cfg> v1.0.0.0
     * courtesy of [ychandak17](https://github.com/ychandak17)
+  * Russian (Русский)
+    * <ru.cfg> v1.0.0.0
+    * courtesy of [D4nisBag](https://github.com/D4nisBag)
 * Update
-  * Italian (Italiano)
-    * <it-it.cfg> v1.0.1.0
+  * <it-it.cfg> v1.0.1.0
+  * <ru.cfg> v1.0.1.0
+  * docs/
+    * Attributions v1.0.2.0
+    * Localizations v1.0.2.0
+    * readme v1.0.2.0
 * closes #19 - Italian (Italiano) <it-it.cfg>
+* closes #21 - Russian (Русский) <ru.cfg>
 * updates #13 - Localization - Master
 
 * Issues
-  * closes #42 - Oxidizer Tank (MOT) 1.0.99.1-prerelease `<Grazie mille ychandak17>` edition
+  * closes #42 - Oxidizer Tank (MOT) 1.0.99.1-prerelease `<D4nisBag ychandak17>` edition
   * closes #43 - 1.0.99.1 Additional Tasks
   * closes #48 - duplicate
   * closes #45 - duplicate
