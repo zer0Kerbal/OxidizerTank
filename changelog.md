@@ -10,6 +10,33 @@
 | spacedock  | (https://spacedock.info/mod/1778)                                 |
 | ckan       | MkerbOxidizerTank                                                 |
 
+## Version 1.1.0.0-release - `<Dankeschön D4nisBag>` edition
+
+* Released
+  * 08 May 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+* 📌 Pinned
+  * Can search `mot` in editors
+  * Dependencies:
+    * [Mkerb Inc (MKERB)](https://www.curseforge.com/kerbal/ksp-mods/MkerbInc)
+
+### Change Summary
+
+* Add localizations
+  * German (Deutsch)
+  * Dankeschön! courtesy of [D4nisBag](https://github.com/D4nisBag)
+* closes #16 - German (Deutsch) <de-de.cfg>
+* updates #13 - Localization - Master
+
+### Issues
+
+* closes #49 - Oxidizer Tank (MOT) 1.1.0.0-release `<Dankeschön D4nisBag>` edition
+* closes #50 - 1.1.0.0 Additional Tasks
+
+---
+
 ## Version 1.0.99.1-prerelease - `<D4nisBag ychandak17>` edition
 
 * Released
