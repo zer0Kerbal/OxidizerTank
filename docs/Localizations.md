@@ -4,10 +4,10 @@ title: Localizations
 description: camera goes *click-click*
 tags: translations,localizations,languages,page,kerbal,ksp,zer0Kerbal,zedK
 ---
-<!-- Localizations.md v1.0.2.0
+<!-- Localizations.md v1.0.3.0
 Oxidizer Tank (MOT)
 created: 21 Mar 2023
-updated: 30 Apr 2023
+updated: 08 May 2023
 
 TEMPLATE: Localizations.md v1.1.9.0
 created: 01 Feb 2022
@@ -27,12 +27,12 @@ THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 has been translated into the following languages:
 
 * ![English][EN] English <us-en.cfg>
+* ![Deutsch][DE] German (Deutsch) <de.cfg>  
 * ![Italiano][IT] Italian (Italiano) <it-it.cfg>  
 * ![Русский][RU] Russian (Русский) <ru.cfg>  
 
 file present, just not translated into (yet)
 
-* ![Deutsch][DE] German (Deutsch) <de.cfg>  
 * ![Español][ES] Spanish (Español) <es-es.cfg>  
 * ![Português Brasil][BR] Brazilian Portuguese (Português Brasil) <pt-br.cfg>  
 * ![简体中文][CN] Simplified Chinese (简体中文) <zh-cn.cfg>  

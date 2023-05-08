@@ -1,4 +1,4 @@
- p)# Changelog  
+ # Changelog  
   
 | modName    | Oxidizer Tank (MOT)                                               |
 | ---------- | ----------------------------------------------------------------- |
@@ -22,18 +22,18 @@
   * Dependencies:
     * [Mkerb Inc (MKERB)](https://www.curseforge.com/kerbal/ksp-mods/MkerbInc)
 
-### Change Summary
+### Change Summary 1.1.0.0
 
 * Add localizations
   * German (Deutsch)
   * Dankeschön! courtesy of [D4nisBag](https://github.com/D4nisBag)
-* closes #16 - German (Deutsch) <de-de.cfg>
-* updates #13 - Localization - Master
 
-### Issues
+### Issues 1.1.0.0
 
 * closes #49 - Oxidizer Tank (MOT) 1.1.0.0-release `<Dankeschön D4nisBag>` edition
 * closes #50 - 1.1.0.0 Additional Tasks
+* closes #16 - German (Deutsch) <de-de.cfg>
+* updates #13 - Localization - Master
 
 ---
 
