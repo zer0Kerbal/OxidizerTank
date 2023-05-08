@@ -93,4 +93,4 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
 [MM]: https://github.com/net-lisias-ksp/ModuleManager "ModularManagement (MM)"
 [m-m]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"
 
-<!-- this file CC BY-ND 4.0 by zer0Kerbal -->
+<!-- THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
