@@ -10,6 +10,9 @@
 | spacedock  | (https://spacedock.info/mod/1778)                                 |
 | ckan       | MkerbOxidizerTank                                                 |
 
+* ![Svenska][SW] Swedish (Svenska) <sw-sw.cfg>  
+* Tack så mycket [CrispChip](https://github.com/CrispChip)
+
 ## Version 1.1.0.0-release - `<Dankeschön D4nisBag>` edition
 
 * Released

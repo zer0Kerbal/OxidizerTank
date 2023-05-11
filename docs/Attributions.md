@@ -53,7 +53,7 @@ THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 </ul>
 
 ### Translations
-
+Tack så mycket [CrispChip](https://github.com/CrispChip)
 <ul>
   <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/EN.png " alt="English" style="zoom:100%;" /> English</li>
   <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/DE.png " alt="German (Deutsch)" style="zoom:100%;" /> German (Deutsch) Dankeschön! - courtesy of <a href="https://github.com/D4nisBag" alt="D4nisBag">D4nisBag</a></li>
