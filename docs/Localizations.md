@@ -27,9 +27,10 @@ THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 has been translated into the following languages:
 
 * ![English][EN] English <us-en.cfg>
-* ![Deutsch][DE] German (Deutsch) <de.cfg>  
-* ![Italiano][IT] Italian (Italiano) <it-it.cfg>  
-* ![Русский][RU] Russian (Русский) <ru.cfg>  
+* ![Deutsch][DE] German (Deutsch) <de.cfg>
+* ![Italiano][IT] Italian (Italiano) <it-it.cfg>
+* ![Русский][RU] Russian (Русский) <ru.cfg>
+* ![Svenska][SW] Swedish (Svenska) <sw-sw.cfg>
 
 file present, just not translated into (yet)
 
@@ -49,7 +50,6 @@ __These localizations for KSP and its DLC's are available through Steam:__
 * ![Dutch][NL] Dutch (Nederlands) <nl-nl.cfg>  
 * ![Norsk][NO] Norwegian (Norsk) <no-no.cfg>  
 * ![Polski][PO] Polish (Polski) <pl.cfg>  
-* ![Svenska][SW] Swedish (Svenska) <sw-sw.cfg>  
 * ![Türk][TR] Turkish (Türk) <tr-tr.cfg>  
 * ![国语][TW] Taiwanese (国语) <zh-tw.cfg>
 
