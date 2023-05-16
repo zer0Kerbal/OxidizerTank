@@ -4,10 +4,10 @@ title: Localizations
 description: camera goes *click-click*
 tags: translations,localizations,languages,page,kerbal,ksp,zer0Kerbal,zedK
 ---
-<!-- Localizations.md v1.0.3.0
+<!-- Localizations.md v1.0.4.0
 Oxidizer Tank (MOT)
 created: 21 Mar 2023
-updated: 08 May 2023
+updated: 15 May 2023
 
 TEMPLATE: Localizations.md v1.1.9.0
 created: 01 Feb 2022
@@ -34,23 +34,23 @@ has been translated into the following languages:
 
 file present, just not translated into (yet)
 
-* ![Español][ES] Spanish (Español) <es-es.cfg>  
-* ![Português Brasil][BR] Brazilian Portuguese (Português Brasil) <pt-br.cfg>  
-* ![简体中文][CN] Simplified Chinese (简体中文) <zh-cn.cfg>  
+* ![Español][ES] Spanish (Español) <es-es.cfg>
+* ![Português Brasil][BR] Brazilian Portuguese (Português Brasil) <pt-br.cfg>
+* ![简体中文][CN] Simplified Chinese (简体中文) <zh-cn.cfg>
 
 __These localizations for KSP and its DLC's are available through Steam:__
 
-* ![Français][FR] French (Français) <fr-fr.cfg>  
-* ![日本語][JA] Japanese(日本語) <ja.cfg>  
+* ![Français][FR] French (Français) <fr-fr.cfg>
+* ![日本語][JA] Japanese(日本語) <ja.cfg>
 
 ## Additionally Included
 
-* ![Español Mexicano][MX] Mexican Spanish (Español Mexicano) <es-mx.cfg>  
-* ![한국어][KO] Korean (한국어) <ko.cfg>  
-* ![Dutch][NL] Dutch (Nederlands) <nl-nl.cfg>  
-* ![Norsk][NO] Norwegian (Norsk) <no-no.cfg>  
-* ![Polski][PO] Polish (Polski) <pl.cfg>  
-* ![Türk][TR] Turkish (Türk) <tr-tr.cfg>  
+* ![Español Mexicano][MX] Mexican Spanish (Español Mexicano) <es-mx.cfg>
+* ![한국어][KO] Korean (한국어) <ko.cfg>
+* ![Dutch][NL] Dutch (Nederlands) <nl-nl.cfg>
+* ![Norsk][NO] Norwegian (Norsk) <no-no.cfg>
+* ![Polski][PO] Polish (Polski) <pl.cfg>
+* ![Türk][TR] Turkish (Türk) <tr-tr.cfg>
 * ![国语][TW] Taiwanese (国语) <zh-tw.cfg>
 
 <!-- Localization -->
