@@ -2,7 +2,6 @@
 permalink: /Changelog.html
 title: The Change Log
 description: The Opening Credits, and the closing credits, plus the first of two (or is three) end credit scenes
-# layout: bare
 tags: changes,changelog,change-log,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 <!-- hdr-changelog.md v1.0.0.1
@@ -22,6 +21,33 @@ CC BY-ND 4.0 by zer0Kerbal -->
 | spacedock  | (https://spacedock.info/mod/1778)                                 |
 | ckan       | MkerbOxidizerTank                                                 |
 
+* 📌 Pinned
+  * Can search `mot` in editors
+  * Dependencies:
+    * [Mkerb Inc (MKERB)](https://www.curseforge.com/kerbal/ksp-mods/MkerbInc)
+
+## Version 1.1.1.0-release - `<Tack så mycket CrispChip>` edition
+
+* Released
+  * 15 May 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+### Change Summary 1.1.1.0
+
+* Add localization
+  * Swedish (Svenska)
+  * Tack så mycket [CrispChip](https://github.com/CrispChip)
+
+### Issues 1.1.1.0
+
+* closes #54 - Oxidizer Tank (MOT) 1.1.1.0-release `<Tack så mycket CrispChip>` edition
+* closes #55 - 1.1.1.0 Additional Tasks
+* closes #28 - Swedish (Svenska) <sw.cfg>
+* updates #13 - Localization - Master
+
+---
+
 ## Version 1.1.0.0-release - `<Dankeschön D4nisBag>` edition
 
 * Released
@@ -38,7 +64,7 @@ CC BY-ND 4.0 by zer0Kerbal -->
 
 * Add localizations
   * German (Deutsch)
-  * Dankeschön! courtesy of [D4nisBag](https://github.com/D4nisBag)
+  * Dankeschön! Dankeschön! [D4nisBag](https://github.com/D4nisBag)
 
 ### Issues 1.1.0.0
 
@@ -265,4 +291,5 @@ CC BY-ND 4.0 by zer0Kerbal -->
   * updates #21 - Russian (Русский) <ru.cfg>
   * updates #22 - Simplified Chinese (简体中文) <zh-cn.cfg>
 
----
+---
+
