@@ -5,10 +5,10 @@ description: The Opening Credits, and the closing credits, plus the first of two
 tags: attributions,thank-you,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 <!--
-Attributions.md v1.0.3.0
+Attributions.md v1.0.4.0
 Oxidizer Tank (MOT)
 created: 21 Mar 2023
-updated: 08 May 2023
+updated: 15 May 2023
 
 TEMPLATE: Attributions.md v1.0.9.0
 created: 01 Feb 2022
@@ -59,6 +59,8 @@ Tack så mycket [CrispChip](https://github.com/CrispChip)
   <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/DE.png " alt="German (Deutsch)" style="zoom:100%;" /> German (Deutsch) Dankeschön! - courtesy of <a href="https://github.com/D4nisBag" alt="D4nisBag">D4nisBag</a></li>
   <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/IT.png " alt="Italiano" style="zoom:100%;" /> Italian (Italiano) - courtesy of <a href="https://github.com/ychandak17" alt="ychandak17">ychandak17</a></li>
   <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/RU.png " alt="Russian (Русский)" style="zoom:100%;" /> Russian (Русский) - courtesy of <a href="https://github.com/D4nisBag" alt="D4nisBag">D4nisBag</a></li>
+  <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/SW.png " alt="Swedish (Svenska)" style="zoom:100%;" /> Swedish (Svenska) - Tack så mycket <a href="https://github.com/CrispChip" alt="CrispChip">CrispChip</a></li>
+
   <li><small>Additions and corrections welcome!</small></li>
 </ul>
 
