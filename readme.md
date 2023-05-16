@@ -1,7 +1,7 @@
-<!-- readme.md v1.0.3.0
+<!-- readme.md v1.0.4.0
 Oxidizer Tank (MOT)
 created: 21 Mar 2023
-updated: 08 May 2023
+updated: 15 May 2023
 
 TEMPLATE: readme.md v1.7.2.1
 created: 17 Jul 2017
@@ -49,9 +49,10 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 ### Localization
 
 >* ![English][EN] English
+>* ![Deutsch][DE] German (Deutsch) - Dankeschön! [D4nisBag](https://github.com/D4nisBag)
 >* ![Italiano][IT] Italian (Italiano) by [ychandak17](https://github.com/ychandak17)
 >* ![Русский][RU] Russian (Русский) by [D4nisBag](https://github.com/D4nisBag)
->* ![Deutsch][DE] German (Deutsch) by [D4nisBag](https://github.com/D4nisBag)
+>* ![Svenska][SW] Swedish (Svenska) Tack så mycket [CrispChip](https://github.com/CrispChip)
 >* ~~![Español][ES] Spanish (Español)~~
 >* ~~![Português Brasil][BR] Brazilian Portuguese (Português Brasil)~~
 >* ~~![简体中文][CN] Simplified Chinese (简体中文)~~
@@ -236,6 +237,7 @@ Comment, click, like, share, up-vote, subscribe
 [ES]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/ES.png "Español"
 [IT]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/IT.png "Italiano"
 [RU]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/RU.png "Русский"
+[SW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/SW.png "Svenska"
 
 [curseforge]: https://www.curseforge.com/members/zer0kerbal/projects
 [reddit]: https://www.reddit.com/user/zer0Kerbal
